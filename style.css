@@ -1,32 +1,15 @@
-html {
-	background: #eee;
+.container{
 	max-width: 500px;
-	text-align: center;
 	margin: 0 auto;
 }
-ul {
-	list-style: none;
-	padding: 0;
+p{
+	text-align: center;
 }
-li {
-	padding: 0.3em;
-	border: solid 2px grey;
-	margin: 0.1em;
-	background: white;
-	user-select: none;
-	text-transform: uppercase;
-}
-li button {
-	float: right;
-	border: none;
-	color: red;
+h1{
+	text-align: center;
 }
 
-li:hover {
-	background: ivory;
-}
-
-button {
-	cursor: pointer;
-	background: none;
+form{
+	display: flex;
+	justify-content: center;
 }
