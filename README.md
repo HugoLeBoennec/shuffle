@@ -5,4 +5,4 @@ it uses [firebase](http://firebase.com) to store data. Changes are propagated in
 
 To use browse to `https://oadam.github.io/shuffle/?firebaseId=<yourfirebaseid>`
 
-Demo available at : https://hugoleboennec.github.io/shuffle/?firebaseId=shuffle-demo
+Demo available at : https://hugoleboennec.github.io/shuffle/?firebaseId=shuffle-cesi
