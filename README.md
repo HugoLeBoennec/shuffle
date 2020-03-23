@@ -1,4 +1,4 @@
-# forwk from [shuffle](https://github.com/oadam/shuffle)
+# fork from [shuffle](https://github.com/oadam/shuffle)
 A webapp that displays a shuffled list of values.
 
 it uses [firebase](http://firebase.com) to store data. Changes are propagated in realtime.
